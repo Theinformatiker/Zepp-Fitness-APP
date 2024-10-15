@@ -1,0 +1,1 @@
+The project analyzes fitness data from the Zepp Fitness App to identify training patterns and optimization opportunities. Data is visualized using Python, pandas, seaborn, and Folium for mapping running routes.
